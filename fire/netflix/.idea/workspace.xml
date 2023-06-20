@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5e1b87ae-d8fc-40ba-87c2-151e7832e68f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../projects/localProject/src/ components/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../projects/localProject/src/ components/Footer.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../projects/localProject/src/ components/Post.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../projects/localProject/src/ components/Post.jsx" afterDir="false" />
@@ -80,7 +81,7 @@
       <workItem from="1680939125808" duration="2999000" />
       <workItem from="1680946821848" duration="7722000" />
       <workItem from="1683556797870" duration="1282000" />
-      <workItem from="1687274755896" duration="2582000" />
+      <workItem from="1687274755896" duration="4462000" />
     </task>
     <servers />
   </component>
